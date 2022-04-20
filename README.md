@@ -3,8 +3,6 @@
 <br>200 °P Payback Neukunden.<br>
 Gutschrift erfolgt nach paar Monaten.
 
-<a href="http://deinlinkziel.de"><button>Klick</button></a>
-
-https://www.payback.de/anmelden/freunde-werben?mgm-ref=ef2d875c-ebde-4e23-a29f-969c4f545121&excid=mgm&incid=mgm
+<a href="https://www.payback.de/anmelden/freunde-werben?mgm-ref=ef2d875c-ebde-4e23-a29f-969c4f545121&excid=mgm&incid=mgm"><button>Klick</button></a>
 
 <button onclick="window.location.href='https://www.payback.de/anmelden/freunde-werben?mgm-ref=ef2d875c-ebde-4e23-a29f-969c4f545121&excid=mgm&incid=mgm'">Continue</button>
